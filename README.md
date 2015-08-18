@@ -1,4 +1,4 @@
-#angular starter project
+#angular-redux todolist demo
 
 
 ## Installation
@@ -14,8 +14,3 @@ The following commands are available for development:
 - `npm run build` - Creates build for production
 - `npm run test` - Runs test environment (single-run)
 - `npm run test:live` - Runs test environment with auto-watch enabled
-
-## Credits
-
-[Neil Fenton](https://github.com/neilff)
-+ others
